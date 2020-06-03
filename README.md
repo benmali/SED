@@ -5,6 +5,7 @@ SED implementation with Python 3
 #2 Supports nth replacement, p, g, w flags
 #3 Checks for correct quotes on command
 #4 Supports echo, bash, file input format
+#5 Supports chained commands
 
 Tested Commands:
 
